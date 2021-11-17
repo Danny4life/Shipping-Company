@@ -83,23 +83,23 @@ button {
     
 }
 
-#button-1 {
+#trackBtn {
     background-color: #FFA737;
     opacity: 1;
     transform: 0.3s;
     cursor: pointer;
 }
 
-#button-1:hover {opacity: 0.6;}
+#trackBtn:hover {opacity: 0.6;}
 
-#button-2 {
+#contactBtn {
     background-color: #670AFE;
     opacity: 1;
     transform: 0.3s;
     cursor: pointer;
 }
 
-#button-2:hover {opacity: 0.6;}
+#contactBtn:hover {opacity: 0.6;}
 
 
 .img-1 {

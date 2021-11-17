@@ -1,13 +1,13 @@
-const btnOne = document.querySelector("#button-1");
+const trackBtn = document.querySelector("#trackBtn");
 
-btnOne.addEventListener("click", () => {
+trackBtn.addEventListener("click", () => {
      
     location.href = "file:///home/segun/Shipping-Company/TrackNow.html";
 });
 
-const btnTwo = document.querySelector("#button-2");
+const contactBtn = document.querySelector("#contactBtn");
 
-btnTwo.addEventListener("click", () => {
+contactBtn.addEventListener("click", () => {
 
     location.href = "file:///home/segun/Shipping-Company/Contact.html";
 });
