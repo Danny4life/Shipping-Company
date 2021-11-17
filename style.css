@@ -87,6 +87,7 @@ button {
     background-color: #FFA737;
     opacity: 1;
     transform: 0.3s;
+    cursor: pointer;
 }
 
 #button-1:hover {opacity: 0.6;}
@@ -95,6 +96,7 @@ button {
     background-color: #670AFE;
     opacity: 1;
     transform: 0.3s;
+    cursor: pointer;
 }
 
 #button-2:hover {opacity: 0.6;}
